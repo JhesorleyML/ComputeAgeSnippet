@@ -1,0 +1,13 @@
+D:\Visual Studio Repository\Projects\ComputeAgeSnippet\ComputeAgeSnippet\bin\Debug\netcoreapp3.1\ComputeAgeSnippet.exe
+D:\Visual Studio Repository\Projects\ComputeAgeSnippet\ComputeAgeSnippet\bin\Debug\netcoreapp3.1\ComputeAgeSnippet.deps.json
+D:\Visual Studio Repository\Projects\ComputeAgeSnippet\ComputeAgeSnippet\bin\Debug\netcoreapp3.1\ComputeAgeSnippet.runtimeconfig.json
+D:\Visual Studio Repository\Projects\ComputeAgeSnippet\ComputeAgeSnippet\bin\Debug\netcoreapp3.1\ComputeAgeSnippet.runtimeconfig.dev.json
+D:\Visual Studio Repository\Projects\ComputeAgeSnippet\ComputeAgeSnippet\bin\Debug\netcoreapp3.1\ComputeAgeSnippet.dll
+D:\Visual Studio Repository\Projects\ComputeAgeSnippet\ComputeAgeSnippet\bin\Debug\netcoreapp3.1\ComputeAgeSnippet.pdb
+D:\Visual Studio Repository\Projects\ComputeAgeSnippet\ComputeAgeSnippet\obj\Debug\netcoreapp3.1\ComputeAgeSnippet.csprojAssemblyReference.cache
+D:\Visual Studio Repository\Projects\ComputeAgeSnippet\ComputeAgeSnippet\obj\Debug\netcoreapp3.1\ComputeAgeSnippet.AssemblyInfoInputs.cache
+D:\Visual Studio Repository\Projects\ComputeAgeSnippet\ComputeAgeSnippet\obj\Debug\netcoreapp3.1\ComputeAgeSnippet.AssemblyInfo.cs
+D:\Visual Studio Repository\Projects\ComputeAgeSnippet\ComputeAgeSnippet\obj\Debug\netcoreapp3.1\ComputeAgeSnippet.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repository\Projects\ComputeAgeSnippet\ComputeAgeSnippet\obj\Debug\netcoreapp3.1\ComputeAgeSnippet.dll
+D:\Visual Studio Repository\Projects\ComputeAgeSnippet\ComputeAgeSnippet\obj\Debug\netcoreapp3.1\ComputeAgeSnippet.pdb
+D:\Visual Studio Repository\Projects\ComputeAgeSnippet\ComputeAgeSnippet\obj\Debug\netcoreapp3.1\ComputeAgeSnippet.genruntimeconfig.cache
